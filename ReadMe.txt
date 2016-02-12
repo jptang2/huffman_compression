@@ -1,6 +1,6 @@
 ﻿Huffman exercise
 
-Tang Jian Ping
+JianPing Tang
 
 huffman compression is a compression method, you could add a file to 'source file' and compress it after you press 'compress' button. You could decompress a file by adding a file to the 'compressed file' and press the 'decompress ' button.
 
